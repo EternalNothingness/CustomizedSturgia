@@ -1,0 +1,20 @@
+<Module>
+    <Name value="RiseOfSturgia"/>
+    <Id value="RiseOfSturgia"/>
+    <Version value="v0.0.1"/>
+    <SingleplayerModule value="true"/>
+    <MultiplayerModule value="false"/>
+    <DependedModules>
+        <DependedModule Id="Native"/>
+        <DependedModule Id="SandBoxCore"/>
+        <DependedModule Id="Sandbox"/>
+        <DependedModule Id="CustomBattle"/>
+        <DependedModule Id="StoryMode" />
+    </DependedModules>
+    <SubModules>
+    <Xmls>
+        <XmlNode>
+            <XmlName id="NPCCharacters" path="customcharacters"/>
+        </XmlNode>
+    </Xmls>
+</Module>
