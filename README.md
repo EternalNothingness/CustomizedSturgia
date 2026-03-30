@@ -12,4 +12,4 @@ Follow this [steam guide](https://steamcommunity.com/sharedfiles/filedetails/?id
 
 ## Notes for the author
 
-How to use XSLT to replace XML entries: [Talesworld Forum1](https://forums.taleworlds.com/index.php?threads/xml-vs-xslt-for-troop-override-question.454053/), [Documentation](https://moddocs.bannerlord.com/bestpractices/xslt_usage_tutorial/)
+How to use XSLT to replace XML entries: [Talesworld Forum](https://forums.taleworlds.com/index.php?threads/xml-vs-xslt-for-troop-override-question.454053/), [Documentation](https://moddocs.bannerlord.com/bestpractices/xslt_usage_tutorial/)
