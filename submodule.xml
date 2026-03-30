@@ -1,6 +1,6 @@
 <Module>
-    <Name value="RiseOfSturgia"/>
-    <Id value="RiseOfSturgia"/>
+    <Name value="CustomizedSturgia"/>
+    <Id value="CustomizedSturgia"/>
     <Version value="v0.0.1"/>
     <SingleplayerModule value="true"/>
     <MultiplayerModule value="false"/>
@@ -12,7 +12,6 @@
         <DependedModule Id="StoryMode" />
     </DependedModules>
     <Xmls>
-        <!--
 		<XmlNode>                
 			<XmlName id="Items" path="items" />
 			<IncludedGameTypes>
@@ -22,8 +21,6 @@
 				<GameType value="EditorGame" />
 			</IncludedGameTypes>
 		</XmlNode>  
-        -->
-
 		<XmlNode>                
 			<XmlName id="NPCCharacters" path="spnpccharacters" />
 			<IncludedGameTypes>
